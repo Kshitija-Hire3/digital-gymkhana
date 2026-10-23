@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+backend/.env
+frontend/.env
+data/excel/raw/*.xlsx
+data/excel/clean/*.xlsx
+data/store/*.json
+*.log
+
+# Real student seed data (contains dates of birth) - never commit
+data/seed/students.seed.json

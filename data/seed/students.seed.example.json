@@ -1,0 +1,5 @@
+[
+  { "crn": "9900000001", "name": "Demo One",   "phone": "9000000001", "email": "demo1@example.com", "branch": "IT", "class": "TY", "division": "A", "shift": "Regular", "dob": "01012000" },
+  { "crn": "9900000002", "name": "Demo Two",   "phone": "9000000002", "email": "demo2@example.com", "branch": "IT", "class": "TY", "division": "A", "shift": "Regular", "dob": "02022000" },
+  { "crn": "9900000003", "name": "Demo Three", "phone": "9000000003", "email": "demo3@example.com", "branch": "IT", "class": "TY", "division": "A", "shift": "Regular", "dob": "03032000" }
+]

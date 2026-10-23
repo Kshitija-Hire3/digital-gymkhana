@@ -1,0 +1,22 @@
+{
+  "name": "digital-gymkhana-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.12"
+  },
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test \"test/*.test.js\"",
+    "seed:demo": "node src/store/seedRegistrations.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "digital-gymkhana": "file:..",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
